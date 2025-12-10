@@ -1,0 +1,7 @@
+{
+  "name": "AKTU AI Suite",
+  "description": "A complete AI study companion featuring PDF Exam Generation, Real-time Voice Tutor, Intelligent Chat with Search, and Media Analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
