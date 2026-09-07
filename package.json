@@ -2,7 +2,7 @@
   "name": "aktu-ai-suite",
   "private": true,
   "version": "0.0.0",
-  '"homepage";https://vishalkumar7318.github.io/AKTU-AI',
+  '"homepage":https://vishalkumar7318.github.io/AKTU-AI',
   "type": "module",
   "scripts": {
     "dev": "vite",
